@@ -1,22 +1,22 @@
 
 
 def test_fail1():
-    pass
+    assert False
 
 def test_fail2():
-    pass
+    assert False
 
 def test_fail3():
-    pass
+    assert False
 
 def test_fail4():
-    pass
+    assert False
 
 def test_fail5():
-    pass
+    assert False
 
 def test_fail6():
-    pass
+    assert False
 
 def test_fail7():
-    pass
+    assert False
